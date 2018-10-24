@@ -1,0 +1,12 @@
+a=15
+b=1
+if(a>19 and a<30):
+    print(a)
+    if(b<9):
+        print(b)
+elif(a>9 and a<=19):
+    print("a>9 and a<=19")
+elif(a<9):
+    print("a<9")
+else:
+    print("gsdajk")
